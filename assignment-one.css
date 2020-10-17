@@ -1,16 +1,3 @@
-
-
-     
-
-     input[type=time] {
-         text-decoration: none;
-         background-color: inherit;
-         color: black;
-         border: 0px;
-         width: 100x;
-         height: auto;
-     }
-
      input[type=number] {
          text-decoration: none;
          background-color: inherit;
